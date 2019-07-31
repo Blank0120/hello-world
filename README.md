@@ -11,4 +11,4 @@ testsomething！！<br>
   
   
 # PS-流体风格<br>
-![流体人物](images/01.jpg)
+![流体人物](images/)
